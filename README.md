@@ -22,18 +22,7 @@ npx playwright test
 3. Login with empty credentials: Tests if the system handles empty username and password fields properly.
 
 ## project structure
-
-playwright_project/
-├── tests/
-│   ├── login.test.js
-│   ├── login-visual.test.js
-│   ├── empty-credentials.test.js
-├── validCredentials.js
-├── invalidCredentials.js
-├── package.json
-├── package-lock.json
-├── playwright.config.js
-└── README.md
+playwright_project/ ├── tests/ │ ├── login.test.js │ ├── login-visual.test.js │ └── empty-credentials.test.js ├── validCredentials.js ├── invalidCredentials.js ├── package.json ├── package-lock.json ├── playwright.config.js └── README.md
 ## Tools Used 
 1. Playwright: For writing and running automated tests.
 2. Node.js: To run the Playwright tests.
