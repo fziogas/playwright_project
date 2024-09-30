@@ -13,15 +13,15 @@ I created this project to practice my skills in writing automated tests using Pl
 ### Install the necessary packages:
 npm install
 
-### Run tests:
+#### Run tests:
 npx playwright test
 
-### Test Scenarios
+##### Test Scenarios
 1. Login with valid credentials: Tests if the user can log in successfully with correct credentials.
 2. Login with invalid credentials: Tests if an error message appears when logging in with incorrect credentials.
 3. Login with empty credentials: Tests if the system handles empty username and password fields properly.
 
-### project structure
+###### project structure
 
 playwright_project/
 ├── tests/
