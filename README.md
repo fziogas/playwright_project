@@ -32,17 +32,7 @@ npx playwright test
 ├── package.json
 ├── package-lock.json
 ├── playwright.config.js
-└── README.md```playwright_project/
-├── tests/
-│   ├── login.test.js
-│   ├── login-visual.test.js
-│   ├── empty-credentials.test.js
-├── validCredentials.js
-├── invalidCredentials.js
-├── package.json
-├── package-lock.json
-├── playwright.config.js
-└── README.md
+└── README.md```
 
 ## Tools Used 
 1. Playwright: For writing and running automated tests.
