@@ -36,4 +36,4 @@ npx playwright test
 ├── package.json
 ├── package-lock.json
 ├── playwright.config.js
-└── README.md```
+└── README.md
